@@ -413,10 +413,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 70}
-      m_SelectedIDs: 3efaffff
-      m_LastClickedID: -1474
-      m_ExpandedIDs: b6f5fffffcf9ffff3efaffff48faffff7afaffff80faffff8afaffffb8faffffc6faffffdefaffffeafaffff
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -783,9 +783,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.6846519, y: 1.1725644, z: -0.13827257}
+    m_Target: {x: 0.0996377, y: 0.9596467, z: 2.1206772}
     speed: 2
-    m_Value: {x: 2.6846519, y: 1.1725644, z: -0.13827257}
+    m_Value: {x: 0.0996377, y: 0.9596467, z: 2.1206772}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -831,13 +831,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08997925, y: -0.29285583, z: 0.027915152, w: -0.9513882}
+    m_Target: {x: -0.20292999, y: -0.219705, z: 0.0469936, w: -0.9529535}
     speed: 2
-    m_Value: {x: -0.090010084, y: -0.2921744, z: 0.02785073, w: -0.9517125}
+    m_Value: {x: -0.2015225, y: -0.21979943, z: 0.046669267, w: -0.95336187}
   m_Size:
-    m_Target: 3.772955
+    m_Target: 2.6567097
     speed: 2
-    m_Value: 3.772955
+    m_Value: 2.6557138
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -922,9 +922,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 31}
-    m_SelectedIDs: 48290000
-    m_LastClickedID: 10568
-    m_ExpandedIDs: 00000000566c0000686c00009a6c000000ca9a3bffffff7f
+    m_SelectedIDs: 446c0000
+    m_LastClickedID: 27716
+    m_ExpandedIDs: 00000000366c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -952,7 +952,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000566c0000
+    m_ExpandedIDs: 00000000366c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -980,7 +980,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300005e8c0000b001000000000000182a00004a730000
+    m_ExpandedInstanceIDs: c62300005e8c0000b001000000000000182a00004a73000020730000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
